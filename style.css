@@ -1,0 +1,32 @@
+h1 {
+    
+    color: darkolivegreen;
+}
+
+body {
+    
+    background-color: blanchedalmond;
+}
+
+head{
+    
+    background-color: blanchedalmond;
+}
+
+#mustardtext{
+    
+    color: darkgoldenrod;
+}
+
+#bannertext{
+    background-color: darkgoldenrod;
+}
+
+span{
+    font-style: italic;
+    color:brown;
+}
+
+div{
+    background-color: burlywood;
+}
